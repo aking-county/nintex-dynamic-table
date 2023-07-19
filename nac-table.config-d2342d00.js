@@ -1,5 +1,5 @@
 const config = {
-  controlName: 'test-test',
+  controlName: 'Dynamic Table',
   description: 'Editable Table for NAC',
   groupName: 'Presales Controls',
   fallbackDisableSubmit: false,
